@@ -1,0 +1,5 @@
+Network GET requests and HTTP
+	https://blog.miguelgrinberg.com/post/micropython-and-the-internet-of-things-part-iv-wi-fi-and-the-cloud
+
+Read the docs on sockets
+	https://docs.micropython.org/en/latest/library/usocket.html#module-usocket
