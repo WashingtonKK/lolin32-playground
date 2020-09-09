@@ -1,0 +1,6 @@
+.idea/
+uPyCraft_V1.1.exe
+*.exe
+*.bin
+*.zip
+micropython/micropython-1.13/
